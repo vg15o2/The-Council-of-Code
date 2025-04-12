@@ -67,7 +67,6 @@ You won’t just pass test cases —
 
 > *"It is not the strength of the algorithm, but the strength of the coder's will."* – Gandalf (probably)
 
----
 
 ### ⚔️ The Order of Algorithms
 
@@ -83,8 +82,6 @@ You won’t just pass test cases —
 - **Faramir of Backtracking** – Tried all paths, with nobility and regret.
 - **Bilbo of Recursion** – There and back again, endlessly.
 - **Mike Ehrmantraut** – Debugged without words. Solved without mercy.
-
----
 
 ### 🌿 The Guild of Data Structures
 
@@ -108,7 +105,6 @@ You who debug in darkness.
 
 **The One True Repo is now yours. Protect it. Master it. Let it not fall into the hands of runtime errors.**
 
----
 ### **The Fellowship of the Compile**
 
 > 🧙‍♂️ **Gandalf**: I will help you bear this burden, Frodo Coder, as long as it is yours to bear.  
@@ -132,4 +128,3 @@ You who debug in darkness.
 Let the music guide your syntax.  
 Loop it while you loop. Debug to the beat. March to the rhythm of recursion.
 ## 🧙‍♂️ May the Segfaults Never Find You.
----
