@@ -8,6 +8,7 @@ This is **what happens when Rivendell meets Albuquerque**, when **Elves write al
 It’s *The Lord of the Rings* meets *Breaking Bad*, with a side of *Better Call Saul* — a tale of **wizards, data structures, and clever loopholes**.
 
 Welcome to **The Council of Code**, where the spirit of Middle-earth blends with the grit of the desert… and together, they **compile**.
+![WhatsApp Image 2025-04-12 at 20 40 57_c12786c4](https://github.com/user-attachments/assets/cd1b64f9-d052-4286-8523-4dddc2970cb2)
 
 ---
 
@@ -120,6 +121,15 @@ You who debug in darkness.
 > – *The Fellowship of the Compile*
 
 ---
+
+## 🎶 The Soundtrack of the Saga
+
+> *“Even the darkest dungeon needs a playlist.”* – Gandalf with AirPods
+### **🎧 You Bow To No One**  
+
+[![You Bow To No One – A Playlist for Code & Courage](https://img.shields.io/badge/Spotify-Click%20to%20Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1paiGmeXGRel3JQGYgg1zv?si=3925052a9dea4848)
+
+Let the music guide your syntax.  
+Loop it while you loop. Debug to the beat. March to the rhythm of recursion.
 ## 🧙‍♂️ May the Segfaults Never Find You.
-
-
+---
