@@ -125,6 +125,9 @@ You who debug in darkness.
 
 [![You Bow To No One – A Playlist for Code & Courage](https://img.shields.io/badge/Spotify-Click%20to%20Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1paiGmeXGRel3JQGYgg1zv?si=3925052a9dea4848)
 
+
+![gif](https://64.media.tumblr.com/f6e0a683ea3e4c8fa3f3bc8ad503c447/764ea3cef0fde2ff-64/s500x750/ba60f3b86d16207d4624d1c136b3d68046a9b09b.gif)
+
 Let the music guide your syntax.  
 Loop it while you loop. Debug to the beat. March to the rhythm of recursion.
 ## 🧙‍♂️ May the Segfaults Never Find You.
