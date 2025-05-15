@@ -8,7 +8,9 @@ This is **what happens when Rivendell meets Albuquerque**, when **Elves write al
 It’s *The Lord of the Rings* meets *Breaking Bad*, with a side of *Better Call Saul* — a tale of **wizards, data structures, and clever loopholes**.
 
 Welcome to **The Council of Code**, where the spirit of Middle-earth blends with the grit of the desert… and together, they **compile**.
-![WhatsApp Image 2025-04-12 at 20 40 57_c12786c4](https://github.com/user-attachments/assets/cd1b64f9-d052-4286-8523-4dddc2970cb2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd1b64f9-d052-4286-8523-4dddc2970cb2" width="600"/>
+</p>
 
 ---
 
@@ -61,6 +63,12 @@ You’ll think like **Gandalf**, break through like **Frodo**, and debug like **
 You won’t just pass test cases —  
 > **You will compile.**
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/13358c01-4ff7-425a-adc2-52e5f69b7e3c" width="150"/>
+</p>
+
+
+
 ---
 
 ## 🤝 Special Thanks – The Fellowship of Logic and Lore
@@ -96,6 +104,7 @@ You won’t just pass test cases —
 - **The Palantír of HashMaps** – Instant knowledge. But at what cost?
 
 ---
+
 
 ### 👁️ To You, Coder of the West
 
